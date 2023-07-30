@@ -5,4 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: "/modern_app",
   plugins: [react()],
+  base: "/modern_app",
 })
